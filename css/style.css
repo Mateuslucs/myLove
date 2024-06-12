@@ -60,6 +60,7 @@ audio {
 }
 #poema > p{
   width: 70%;
+  margin-top: -50px;
 }
 #img{
     background-image: url(../img/WhatsApp\ Image\ 2024-06-11\ at\ 23.41.55.jpeg);
