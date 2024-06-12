@@ -50,15 +50,16 @@ audio {
 }
 #poema{
   background-image: url(../img/fundoPoema.jpg);
-  width: 476px;
-  height: 100%;
-  background-size: contain;
+  width: 430px;
+  height: 600px;
+  background-size: cover;
   background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 #poema > p{
   width: 70%;
-  margin: auto;
-  margin-top: 146px;
 }
 #img{
     background-image: url(../img/WhatsApp\ Image\ 2024-06-11\ at\ 23.41.55.jpeg);
